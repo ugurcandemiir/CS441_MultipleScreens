@@ -10,8 +10,12 @@ import UIKit
 class SecondViewController: UIViewController {
 
     @IBOutlet weak var nameLabel: UILabel!
+    
+    var finalName = ""
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        nameLabel.text = finalName
 
         // Do any additional setup after loading the view.
     }

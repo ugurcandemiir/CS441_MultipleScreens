@@ -35,7 +35,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="doneButton" destination="hFm-vY-urC" id="Aof-DK-m1A"/>
                         <outlet property="textField" destination="sdX-hN-9Fi" id="rsp-UR-mf2"/>
                         <segue destination="iqA-Yn-D5A" kind="show" identifier="name" id="bJF-Cc-tH4"/>
                     </connections>
@@ -47,6 +46,7 @@
         <!--Second View Controller-->
         <scene sceneID="gN3-Wa-wLX">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="d2Y-N7-1c2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="iqA-Yn-D5A" customClass="SecondViewController" customModule="MultipleScreens" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Q05-T3-VZF">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
@@ -68,7 +68,6 @@
                         <outlet property="nameLabel" destination="rDU-Wb-6Ud" id="LwQ-nT-3SW"/>
                     </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="d2Y-N7-1c2" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-4.3478260869565224" y="-181.47321428571428"/>
         </scene>
