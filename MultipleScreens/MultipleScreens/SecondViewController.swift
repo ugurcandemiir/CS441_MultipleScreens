@@ -9,6 +9,7 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    @IBOutlet weak var nameLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
