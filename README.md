@@ -17,4 +17,4 @@ Ugurcan Demir
   
 # GIF
 
-<img src="http://g.recordit.co/6y9AskV0aA.gif" width=250><br>
+<img src="http://g.recordit.co/6y9AskV0aA.gif" width=350><br>
