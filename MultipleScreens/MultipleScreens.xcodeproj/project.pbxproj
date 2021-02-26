@@ -16,6 +16,7 @@
 		5A68A8CC25E9450600ECE53E /* MultipleScreensTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A68A8CB25E9450600ECE53E /* MultipleScreensTests.swift */; };
 		5A68A8D725E9450600ECE53E /* MultipleScreensUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A68A8D625E9450600ECE53E /* MultipleScreensUITests.swift */; };
 		5A68A8E825E9461E00ECE53E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A68A8E725E9461E00ECE53E /* SecondViewController.swift */; };
+		5A68A8ED25E97B9500ECE53E /* ihfnlpbze7o01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5A68A8EC25E97B9500ECE53E /* ihfnlpbze7o01.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		5A68A8D625E9450600ECE53E /* MultipleScreensUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleScreensUITests.swift; sourceTree = "<group>"; };
 		5A68A8D825E9450600ECE53E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A68A8E725E9461E00ECE53E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		5A68A8EC25E97B9500ECE53E /* ihfnlpbze7o01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ihfnlpbze7o01.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				5A68A8B425E9450500ECE53E /* AppDelegate.swift */,
 				5A68A8B625E9450500ECE53E /* SceneDelegate.swift */,
 				5A68A8B825E9450500ECE53E /* ViewController.swift */,
+				5A68A8EC25E97B9500ECE53E /* ihfnlpbze7o01.jpg */,
 				5A68A8BA25E9450500ECE53E /* Main.storyboard */,
 				5A68A8BD25E9450600ECE53E /* Assets.xcassets */,
 				5A68A8BF25E9450600ECE53E /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A68A8C125E9450600ECE53E /* LaunchScreen.storyboard in Resources */,
+				5A68A8ED25E97B9500ECE53E /* ihfnlpbze7o01.jpg in Resources */,
 				5A68A8BE25E9450600ECE53E /* Assets.xcassets in Resources */,
 				5A68A8BC25E9450500ECE53E /* Main.storyboard in Resources */,
 			);
